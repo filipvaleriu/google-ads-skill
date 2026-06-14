@@ -1,0 +1,4 @@
+google-ads
+google-auth
+requests
+keyring
